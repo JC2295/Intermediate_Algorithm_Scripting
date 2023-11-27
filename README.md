@@ -1,0 +1,2 @@
+# Intermediate_Algorithm_Scripting
+Intermediate algorithms written in JavaScript
